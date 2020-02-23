@@ -1,4 +1,4 @@
 # readme.md
 
-**Name**:  
-**USF email address**:  
+**Name**: Kedar Khetia  
+**USF email address**: kmkhetia@dons.usfca.edu 
